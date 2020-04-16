@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лаб 4 Оскин</string>
+    <string name="subjects">Предметы</string>
+    <string name="journal">Журнал</string>
+</resources>
